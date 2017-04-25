@@ -12,7 +12,7 @@ module DecentExposure
           @_resources ||= {}
         end
 
-        _protected_ivars << "@_resources"
+        # PROTECTED_IVARS << "@_resources"
       end
     end
 
