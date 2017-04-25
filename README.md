@@ -2,6 +2,12 @@
 [![Build Status](https://api.travis-ci.org/hashrocket/decent_exposure.svg?branch=master)](https://travis-ci.org/hashrocket/decent_exposure) 
 [![Code Climate](https://codeclimate.com/github/hashrocket/decent_exposure/badges/gpa.svg)](https://codeclimate.com/github/hashrocket/decent_exposure)
 
+**Important Note**: This is a fork of Version 2.3.3 of https://github.com/hashrocket/decent_exposure
+to make it work with rails 5.x. It's more of a hack, I would not advice anyone to use it. I am using
+it temporarily to ease migration of a legacy project to Rails 5.x (one less thing worry!).
+
+The usual Readme follows:
+
 **Note**: Version 2.3.x will be the last series of releases that support
 Rails 3.x and Ruby 1.8/1.9. Starting with version 3.0, Decent Exposure
 will only support Rails 4.0 and above, and Ruby 2.0 and above.
